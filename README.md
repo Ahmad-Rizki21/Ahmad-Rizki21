@@ -1,4 +1,4 @@
-![Header](img/github-header-image.png)
+![Header](img/github-header-image1.png)
 
 # 💫 About Me:
 👋 Hi there, I'm Ahmad Rizki!<br>🛠️ I’m a passionate Back-End Developer & Network Engineer with a strong love for clean code and solid infrastructure.<br>🏢 Currently working at a private company specializing in Network Infrastructure Solutions — making systems smarter, faster, and more reliable.<br>🌐 I thrive on connecting backend logic with robust networking to bring seamless digital experiences to life.<br><br>🔧 What I’m up to:<br>🎯 Building and optimizing scalable backend systems<br>🧠 Diving deeper into cloud networking & automation<br>🤝 Open for collaboration on impactful tech projects<br><br>💬 Fun Side of Me:<br>⚽ Love kicking the ball on weekends<br>🎣 Find peace while fishing — my natural debugger 😉
